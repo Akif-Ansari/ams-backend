@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "66265585ad983eb5ebd89074"
+  },
+  "name": "Akif Ansari",
+  "courseId": 1,
+  "email": "akif@gmail.com",
+  "gender": "M",
+  "year": 2,
+  "semester": 4,
+  "dob": "21/05/2000",
+  "countryOrigin": "India",
+  "address": "Lucknow",
+  "fatherName": "Arif Ansari",
+  "stdId": 1004,
+  "mobileNo": "8423120171",
+  "deptId": 1,
+  "enrollmentNo": "A-4138"
+},
+{
+  "_id": {
+    "$oid": "66265585ad983eb5ebd89075"
+  },
+  "name": "Osama",
+  "courseId": 1,
+  "email": "osama@gmail.com",
+  "gender": "M",
+  "year": 2,
+  "semester": 4,
+  "dob": "14/04/2001",
+  "countryOrigin": "India",
+  "address": "Lucknow",
+  "fatherName": "Umar",
+  "stdId": 1027,
+  "mobileNo": "9192586947",
+  "deptId": 1,
+  "enrollmentNo": "A-3534"
+}]
